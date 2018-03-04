@@ -1,3 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
 .ipynb_checkpoints/
+data_pretreatment/wiki.zh.vec
+data_pretreatment/wiki.zh.vec.simple
+data_pretreatment/fasttext/
+0label.npy
+0sentence.npy
+/numpy_data
